@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\bin\Debug\Mod3Wins.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\bin\Debug\Mod3Wins.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\bin\Debug\Mod3Wins.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\obj\Debug\Mod3Wins.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\obj\Debug\Mod3Wins.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Mod3Wins\Mod3Wins\obj\Debug\Mod3Wins.pdb
